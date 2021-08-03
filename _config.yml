@@ -8,7 +8,7 @@ twitter_username: riversoulsart
 instagram_username: riversouls
 
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 load_paths:
