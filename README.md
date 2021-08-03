@@ -1,2 +1,2 @@
-# estherlenotre.github.io
+# riversouls.art - estherlenotre.github.io
 Portfolio website for my art
