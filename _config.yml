@@ -1,5 +1,26 @@
 title: myproject
+email: riversouls.l@gmail.com
+description: Portfolio - commission info & prices
 baseurl: ""
 url: ""
+
+twitter_username: riversoulsart
+instagram_username: riversouls
+
 markdown: kramdown
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
