@@ -11,6 +11,9 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+load_paths:
+    - _sass
+    - /hoosegow/.bundle/ruby/2.7.0/gems/jekyll-theme-minimal-0.2.0/_sass
 
 # exclude:
 #   - .sass-cache/
