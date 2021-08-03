@@ -10,6 +10,7 @@ ruby RUBY_VERSION
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "3.3.1"
+gem "jekyll", ">= 3.6.3"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "jekyll-theme-minimal"
@@ -22,4 +23,17 @@ gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
+   gem "addressable", ">= 2.8.0"
+   gem "kramdown", ">= 2.3.0"
+   gem "json", ">= 2.3.0"
+   gem "ffi", ">= 1.9.24"
+   gem "nokogiri", ">= 1.11.4"
+
+
+
+
+
+
+
+
 end
