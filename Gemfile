@@ -1,45 +1,12 @@
 source "https://rubygems.org"
-ruby RUBY_VERSION
-
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-
-source 'https://rubygems.org'
-
-# if any new gem, say github-pages, is added to the file, run
-#`bundle update github-pages`
-
-gem "jekyll", ">= 3.6.3"
-gem "addressable", ">= 2.8.0"
-gem "kramdown", ">= 2.3.0"
-gem "json", ">= 2.3.0"
-gem "ffi", ">= 1.9.24"
-gem "nokogiri", ">= 1.11.4"
-gem "jekyll-remote-theme"
-
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "starving-artist-jekyll-theme"
-gem "github-pages", group: :jekyll_plugins
-
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
-
-# If you have any plugins, put them here!
-group :jekyll_plugins do
-   gem "jekyll-feed", "~> 0.6"
-
-
-
-
-
-
-
-
-end
+#gemspec
+gem 'jekyll'                    #Needed since this is a theme for Jekyll
+gem 'jekyll-feed'
+gem 'rake'                      #Used to simplify building/deploying tasks
+gem 's3_website'                #Used to deploy site to AWS S3
+gem 'mini_magick'               #Used by a raketask to compress/optimize images at build time
+gem 'sass'                      
+gem 'image_optim'               #Optimizes our images
+gem 'image_optim_pack'          #Tools that image_optim uses
+gem 'starving-artist-jekyll-theme'
+#gem 'starving-artist-jekyll-theme', :path => ""        # For Testing local Gems
