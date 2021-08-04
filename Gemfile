@@ -1,5 +1,8 @@
 source "https://rubygems.org"
 #gemspec
+
+spec.add_dependency "bundler", ">= 2.2.10"
+
 gem 'jekyll'                    #Needed since this is a theme for Jekyll
 gem 'jekyll-feed'
 gem 'rake'                      #Used to simplify building/deploying tasks
