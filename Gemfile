@@ -21,6 +21,7 @@ gem "kramdown", ">= 2.3.0"
 gem "json", ">= 2.3.0"
 gem "ffi", ">= 1.9.24"
 gem "nokogiri", ">= 1.11.4"
+gem "jekyll-remote-theme"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "starving-artist-jekyll-theme"

@@ -24,7 +24,9 @@ instagram_username:  riversouls
 
 # Build settings
 markdown: kramdown
-theme: starving-artist-jekyll-theme
+remote_theme: chrisanthropic/starving-artist-jekyll-theme
+plugins:
+  - jekyll-remote-theme
 gems:
   - jekyll-feed
 exclude:
