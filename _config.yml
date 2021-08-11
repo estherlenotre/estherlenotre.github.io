@@ -4,7 +4,7 @@ email: riversouls.l@gmail.com
 
 description: Portfolio and prices
 
-header: images/logo.png
+header: images/riverlogo.png
 
 # Exclude our ruby stuff
 exclude: [.bundle, .vendor, .bin, starving-artist.gemspec, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, starving-artist-jekyll-theme-*.gem]
