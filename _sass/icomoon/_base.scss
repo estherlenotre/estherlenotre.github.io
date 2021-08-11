@@ -28,11 +28,6 @@
 }
 
 // Base styling for individual icons
-.icon-googleplus:before {
-	content: "\e600";
-}
-.icon-facebook:before {
-	content: "\e601";
 }
 .icon-twitter:before {
 	content: "\e602";
@@ -40,14 +35,14 @@
 .icon-feed:before {
 	content: "\e603";
 }
-.icon-github:before {
-	content: "\e604";
+.icon-artstation:before {
+	content: "\e959";
 }
-.icon-tumblr:before {
-	content: "\e605";
+.icon-instagram:before {
+	content: "\ea92";
 }
-.icon-linkedin:before {
-	content: "\e606";
+.icon-deviantart:before {
+	content: "\eaaa";
 }
  
 // Base styling for all icons with the :hover psuedoclass
@@ -62,24 +57,18 @@
 }
 
 // Colors for individual icons with the :hover psuedoclass
-.icon-googleplus:hover {
-	color: #dd4b39;
-}
-.icon-facebook:hover {
-	color: #3b5998;
-}
 .icon-twitter:hover {
 	color: #4099FF;
 }
 .icon-feed:hover {
 	color: #ff7900;
 }
-.icon-github:hover {
-	color: #000;
+.icon-artstation:hover {
+	color: #33d4ff;
 }
-.icon-tumblr:hover {
-	color: #32506d;
+.icon-instagram:hover {
+	color: #ff339f;
 }
-.icon-linkedin:hover {
-	color: #007bb6;
+.icon-deviantart:hover {
+	color: #28f25f;
 }
