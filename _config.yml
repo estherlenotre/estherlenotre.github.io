@@ -1,20 +1,10 @@
 # Site settings
-title: Starving Artist Jekyll Theme
-email: ctarwater@chrisanthropic.com
-author: Chrisanthropic
+title: Riversouls' Art
+email: riversouls.l@gmail.com
 
-keywords: jekyll, jekyll theme, portfolio theme, artist theme
-description: Witty description here.
-
-# Only use this if you are serving your site via Github Pages
-github:
-  url: "https://chrisanthropic.github.io/starving-artist-jekyll-theme"
+description: Portfolio and prices
 
 header: images/logo.png
-
-# Formspree contact Form
-contact_form: "https://formspree.io/ctarwater@chrisanthropic.com"
-
 
 # Exclude our ruby stuff
 exclude: [.bundle, .vendor, .bin, starving-artist.gemspec, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, starving-artist-jekyll-theme-*.gem]
