@@ -33,12 +33,11 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-
-.icon-artstation:before {
-  content: "\e900";
-}
 .icon-home3:before {
   content: "\e902";
+}
+.icon-artstation:before {
+  content: "\e900";
 }
 .icon-instagram:before {
   content: "\ea92";
@@ -52,11 +51,11 @@
 
 
 // Colors for individual icons with the :hover psuedoclass
-.icon-twitter:hover {
-	color: #4099FF;
-}
 .icon-home3:hover {
 	color: #ff7900;
+}
+.icon-twitter:hover {
+	color: #4099FF;
 }
 .icon-artstation:hover {
 	color: #33d4ff;
