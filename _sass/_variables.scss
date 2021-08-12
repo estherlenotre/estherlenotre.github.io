@@ -6,7 +6,7 @@ $body-bg: #273032;
 $body-font-color: #f7f7f7;
 
 // Links
-$link-color: #e3ad00;
+$link-color: $primary-color;
 $link-hover-color: lighten($link-color, 15%);
 $link-visited-color: darken($link-color, 25%);
 
@@ -24,7 +24,7 @@ $header-color: $primary-color;
 $header-link-color: $complimentary-color;
 $header-link-hover-color: $complimentary-color;
 $header-link-visted-color: $link-color;
-$header-active-link-color: #e3ad00 ;
+$header-active-link-color: darken($primary-color, 15%);
 
 // Sidebar Settings
 $sidebar-color: darken($primary-color, 55%);
