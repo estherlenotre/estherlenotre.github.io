@@ -21,7 +21,7 @@ $header-color: $primary-color;
 $header-link-color: $complimentary-color;
 $header-link-hover-color: $complimentary-color;
 $header-link-visted-color: $link-color;
-$header-active-link-color: #6f77c2;
+$header-active-link-color: #FFC300 ;
 
 // Sidebar Settings
 $sidebar-color: darken($primary-color, 55%);
@@ -30,7 +30,7 @@ $sidebar-color: darken($primary-color, 55%);
 $navbar-height: 45px;
 
 // Mobile Navbar Settings
-$navbar-color: darken($primary-color, 25%);
+$navbar-color: darken($primary-color, 15%);
 $navbar-text-color: $secondary-color;
 $navbar-hover-color: $complimentary-color;
 $navbar-active-color: lighten($primary-color, 25%);
