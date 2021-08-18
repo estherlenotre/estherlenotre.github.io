@@ -1,5 +1,5 @@
 ---
 layout: gallery
 title: characterdesign
-permalink: "/characterdesign/"
+permalink: "/gallery/characterdesign/"
 ---
