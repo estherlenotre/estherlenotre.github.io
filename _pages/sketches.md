@@ -1,3 +1,5 @@
+---
 layout: gallery
 title: sketches
-permalink: "/sketches/"
+permalink: "/gallery/sketches/"
+---
