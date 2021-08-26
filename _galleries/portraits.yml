@@ -14,7 +14,7 @@ arts:
   artist: ""
   description: ""
   
-  - image: "images/portraits/Artemis.jpg"
+- image: "images/portraits/Artemis.jpg"
   order: "3"
   title: "Artemis"
   artist: ""
@@ -47,5 +47,5 @@ arts:
   title: "Sybil"
   artist: ""
   description: ""
-  ---
+---
 
