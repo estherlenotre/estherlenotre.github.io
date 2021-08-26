@@ -2,7 +2,7 @@
 name: "sketches"
 arts:
 # Column 1
-- image: "images/galleries/sketches/outfits.jpg"
+- image: "images/sketches/outfits.jpg"
   order: "1"
   title: "Outfits"
   artist: ""
