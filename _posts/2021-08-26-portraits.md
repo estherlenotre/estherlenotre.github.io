@@ -11,7 +11,7 @@ thumbnail: images/posts/port.png
 **Base price : 80$**  -  *Portraits don't go any further than the bust.*
 
 
-#### How to order
+## How to order
 
 Use the contact form and include the following :
 
@@ -30,7 +30,7 @@ Use the contact form and include the following :
 
 
 
-#### Agreement
+## Agreement
 
 
 *By sending the payment, you are agreeing to the following terms:*
