@@ -9,8 +9,7 @@ thumbnail: images/portraits/Ydrill.jpg
 
 ---
 **Base price : 80$**
-
-
+How to order and agreement below.
 
 #### How to order
 
