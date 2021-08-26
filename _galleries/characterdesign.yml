@@ -7,4 +7,9 @@ arts:
   order: "1"
   title: "Qipao"
   description: 
+  
+- image: "images/galleries/characterdesign/Freja.jpg"
+  order: "2
+  title: "Freja"
+  description: 
 ---
