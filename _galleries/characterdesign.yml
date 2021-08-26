@@ -1,7 +1,6 @@
 ---
 name: "characterdesign"
 arts:
-
 # Column 1
 - image: "images/galleries/characterdesign/qipao.jpg"
   order: "1"
@@ -14,3 +13,4 @@ arts:
   title: "Freja"
   artist: ""
   description: ""
+---
