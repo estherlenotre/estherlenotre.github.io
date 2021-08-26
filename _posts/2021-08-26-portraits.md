@@ -9,7 +9,9 @@ thumbnail: images/portraits/Ydrill.jpg
 
 ---
 **Base price : 80$**
+
 *Portraits don't go any further than the bust.*
+
 How to order and agreement below.
 
 
