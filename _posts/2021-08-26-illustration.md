@@ -5,7 +5,7 @@ title: "Illustrations"
 keywords: Illustrations, Commission, Prices
 description: Commission prices for illustrations
 
-thumbnail: images/posts/illu.png
+thumbnail: images/posts/illu.PNG
 
 ---
 **Base price : 180$**  -  *Fully rendered piece including background and character(s).*                                                                                                                                                                                                                                     
