@@ -11,7 +11,7 @@ thumbnail: images/posts/chara.png
 **Base price : 100$**  -  *Front view of the character I designed for you in a dynamic or neutral pose. Slightly rendered, no background.*
 
 
-#### How to order
+## How to order
 
 Use the contact form and include the following :
 
@@ -30,7 +30,7 @@ Use the contact form and include the following :
 
 
 
-#### Agreement
+## Agreement
 
 
 *By sending the payment, you are agreeing to the following terms:*
