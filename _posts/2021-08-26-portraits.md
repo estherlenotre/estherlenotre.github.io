@@ -7,8 +7,7 @@ description: Commission prices for portraits
 
 thumbnail: images/posts/port.PNG
 ---
-**Base price : 80$**  -  *Portraits don't go any further than the bust.* - Prices may vary depending on the complexity of the commission.                                                                                                                                                                                                                                     ⠀
-
+**Base price : 80$**  -  *Portraits don't go any further than the bust.* - Prices may vary depending on the complexity of the commission. ⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀  ⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ## How to order
 
