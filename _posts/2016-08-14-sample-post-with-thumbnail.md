@@ -1,20 +1,54 @@
 ---
 layout: post
-title: "Sample post with thumbnail"
+title: "Portraits"
 
-keywords: Shamsee, Lone Idiot and Cub, Tristan J. Tarwater, Adrian Ricker
-description: Shamsee Lone Idiot and Cub - page 013
+keywords: Portraits, Commission, Prices
+description: Commission prices for portraits
 
-thumbnail: images/posts/thumbs/catmen.jpg
-
-facebook_type: 
-facebook_image: images/posts/catmen.jpg
+thumbnail: images/portraits/Ydrill.jpg
 
 ---
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+**Base price : 80$**
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere
+#### How to order
+
+Use the contact form and include the following :
+
+- Commission type
+
+- Character name, description (personnality etc) & reference
+
+- things you want to appear in the commission (expression, background, pose,...)
+
+
+   Once I receive and approve your order, I will do a sketch and revise it until you are happy with it. Then we'll proceed with the 50% of the payment and I will start working on your piece. If you're happy with it, I'll send you the full res file upon reception of the remaining amount. You can email me to get WIP anytime. (I'll send WIP for the sketch, rough colour and finished render anyway)
+
+- Sketching will take up to 3 days
+
+- Each piece should take something like 1 or 2 weeks (depending on the complexity of the piece and type of commission)
+
+
+#### Agreement
+
+*By sending the payment, you are agreeing to the following terms:*
+
+>The commissioner:
+>
+>>    may use the commissioned piece for any personal purposes, note that credit is highly encouraged and preferred.
+>>    may **not** use the commissioned piece for any commercial and/or business purposes unless a written statement from me is produced via an inquiry of consent (with a signature)
+>>    may **not** credit oneself as the artist and/or alter the artwork in anyway including: tracing, and removing the signature with intent to obscure credibility.
+>>    may crop and/or resize the commissioned piece to fit one's preferences without omitting the above terms.
+>>    is aware that they are purchasing digital good(s) and will not misuse the chargeback fee via PayPal.
+>>    is aware that I will **not** tolerate the misuse of the chargeback fee via PayPal and legal actions may follow for fraudulent intent and/or mischief.
+>
+>
+>As the artist, I will never, under any circumstances, claim your original character(s) and/or properties as my own. I will always give proper disclaimers for such. However, I have a right to:
+>
+>>    display and/or remove any commission(s) from my own galleries. 
+>>    issue a refund and/or cancel a commission request due to either inadequate or lack of communication and/or inappropriate behavior
+>>    report the commissioner for any fraudulent intent and/or mischief via PayPal and/or any used platform if any issues should arise.
+
+
+
