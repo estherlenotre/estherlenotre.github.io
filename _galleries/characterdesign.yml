@@ -5,12 +5,12 @@ arts:
 - image: "images/characterdesign/qipao.jpg"
   order: "1"
   title: "Qipao"
-  artist: ""
-  description: ""
+  artist:
+  description:
   
 - image: "images/characterdesign/Freja.jpg"
   order: "2"
   title: "Freja"
-  artist: ""
-  description: ""
+  artist:
+  description:
 ---
