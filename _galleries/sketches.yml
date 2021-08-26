@@ -5,6 +5,6 @@ arts:
 - image: "images/sketches/outfits.jpg"
   order: "1"
   title: "Outfits"
-  artist: ""
-  description: ""
+  artist:
+  description:
 ---
