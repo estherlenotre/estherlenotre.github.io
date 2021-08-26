@@ -5,7 +5,7 @@ title: "Portraits"
 keywords: Portraits, Commission, Prices
 description: Commission prices for portraits
 
-thumbnail: images/portraits/Ydrill.jpg
+thumbnail: images/posts/port.png
 
 ---
 **Base price : 80$**
