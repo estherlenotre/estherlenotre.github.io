@@ -5,8 +5,7 @@ title: "Portraits"
 keywords: Portraits, Commission, Prices
 description: Commission prices for portraits
 
-thumbnail: images/posts/port.png
-
+thumbnail: images/posts/port.PNG
 ---
 **Base price : 80$**  -  *Portraits don't go any further than the bust.*                                                                                                                                                                                                                                     
 
