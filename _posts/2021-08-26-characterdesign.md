@@ -5,7 +5,7 @@ title: "Character design"
 keywords: Character, Design, Commission, Prices
 description: Commission prices for character designs
 
-thumbnail: images/characterdesign/Freja.jpg
+thumbnail: images/posts/port.png
 
 ---
 **Base price : 100$**
