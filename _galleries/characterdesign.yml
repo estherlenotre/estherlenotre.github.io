@@ -2,13 +2,13 @@
 name: "characterdesign"
 arts:
 # Column 1
-- image: "images/galleries/characterdesign/qipao.jpg"
+- image: "images/characterdesign/qipao.jpg"
   order: "1"
   title: "Qipao"
   artist: ""
   description: ""
   
-- image: "images/galleries/characterdesign/Freja.jpg"
+- image: "images/characterdesign/Freja.jpg"
   order: "2"
   title: "Freja"
   artist: ""
