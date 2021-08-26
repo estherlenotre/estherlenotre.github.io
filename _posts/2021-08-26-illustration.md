@@ -8,7 +8,7 @@ description: Commission prices for illustrations
 thumbnail: images/posts/illu.PNG
 
 ---
-**Base price : 180$**  -  *Fully rendered piece including background and character(s).*                                                                                                                                                                                                                                     
+**Base price : 180$**  -  *Fully rendered piece including background and character(s).* - Prices may vary depending on the complexity of the commission.                                                                                                                                                                                                                                     ⠀
 
 
 ## How to order
