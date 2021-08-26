@@ -18,7 +18,7 @@ arts:
   order: "3"
   title: "Artemis"
   artist:
-  description:
+  description: "Commission for Skotadii"
   
   
 # Column 2
@@ -26,7 +26,7 @@ arts:
   order: "4"
   title: "Ayra"
   artist:
-  description:
+  description: "Commission for Skotadii"
   
 - image: "images/portraits/Tiefling.jpg"
   order: "5"
