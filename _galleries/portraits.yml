@@ -1,7 +1,6 @@
 ---
 name: "portraits"
 arts:
-
 # Column 1
 - image: "images/galleries/portraits/Ydrill.jpg"
   order: "1"
@@ -9,7 +8,7 @@ arts:
   artist: ""
   description: ""
   
-- image: "images/galleries/portraits/self portrait.jpg"
+- image: "images/galleries/portraits/self-portrait.jpg"
   order: "2"
   title: "Self portrait"
   artist: ""
@@ -48,4 +47,5 @@ arts:
   title: "Sybil"
   artist: ""
   description: ""
+  ---
 
