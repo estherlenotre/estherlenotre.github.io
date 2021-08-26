@@ -1,11 +1,39 @@
 ---
 name: "illustration"
 arts:
+
 # Column 1
-- image: "images/galleries/illustration/AvenueinSchlossKammerPark.jpg"
+- image: "images/galleries/illustration/Drowning.jpg"
   order: "1"
-  title: "Avenue in Schloss Kammer Park"
-  artist: "Gustav Klimt"
+  title: "Drowning"
   description: 
+  
+- image: "images/galleries/illustration/balcony.jpg"
+  order: "2"
+  title: "Balcony"
+  description: 
+  
+  - image: "images/galleries/illustration/Guide.jpg"
+  order: "3"
+  title: "Guide"
+  description: 
+  
+  
+# Column 2
+- image: "images/galleries/illustration/Succubus.jpg"
+  order: "4"
+  title: "Succubus"
+  description: 
+  
+- image: "images/galleries/illustration/unwanted protection.jpg"
+  order: "5"
+  title: "Unwanted protection"
+  description: 
+  
+- image: "images/galleries/illustration/dance.jpg"
+  order: "6"
+  title: "Dance"
+  description: 
+  
 ---
   
