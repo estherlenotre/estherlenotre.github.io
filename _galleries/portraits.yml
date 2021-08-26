@@ -2,19 +2,19 @@
 name: "portraits"
 arts:
 # Column 1
-- image: "images/galleries/portraits/Ydrill.jpg"
+- image: "images/portraits/Ydrill.jpg"
   order: "1"
   title: "Ydrill"
   artist: ""
   description: ""
   
-- image: "images/galleries/portraits/self-portrait.jpg"
+- image: "images/portraits/self-portrait.jpg"
   order: "2"
   title: "Self portrait"
   artist: ""
   description: ""
   
-  - image: "images/galleries/portraits/Artemis.jpg"
+  - image: "images/portraits/Artemis.jpg"
   order: "3"
   title: "Artemis"
   artist: ""
@@ -22,19 +22,19 @@ arts:
   
   
 # Column 2
-- image: "images/galleries/portraits/Ayra.jpg"
+- image: "images/portraits/Ayra.jpg"
   order: "4"
   title: "Ayra"
   artist: ""
   description: ""
   
-- image: "images/galleries/portraits/Tiefling.jpg"
+- image: "images/portraits/Tiefling.jpg"
   order: "5"
   title: "Tiefling"
   artist: ""
   description: ""
   
-- image: "images/galleries/portraits/Elf.jpg"
+- image: "images/portraits/Elf.jpg"
   order: "6"
   title: "Elf"
   artist: ""
@@ -42,7 +42,7 @@ arts:
   
   
 # Column 3
-- image: "images/galleries/portraits/Sybil.jpg"
+- image: "images/portraits/Sybil.jpg"
   order: "7"
   title: "Sybil"
   artist: ""
