@@ -38,19 +38,19 @@ Use the contact form and include the following :
 
 >The commissioner:
 >
->>    may use the commissioned piece for any personal purposes, note that credit is highly encouraged and preferred.
->>    may **not** use the commissioned piece for any commercial and/or business purposes unless a written statement from me is produced via an inquiry of consent (with a signature)
->>    may **not** credit oneself as the artist and/or alter the artwork in anyway including: tracing, and removing the signature with intent to obscure credibility.
->>    may crop and/or resize the commissioned piece to fit one's preferences without omitting the above terms.
->>    is aware that they are purchasing digital good(s) and will not misuse the chargeback fee via PayPal.
->>    is aware that I will **not** tolerate the misuse of the chargeback fee via PayPal and legal actions may follow for fraudulent intent and/or mischief.
+>>    - may use the commissioned piece for any personal purposes, note that credit is highly encouraged and preferred.
+>>    - may **not** use the commissioned piece for any commercial and/or business purposes unless a written statement from me is produced via an inquiry of consent (with a signature)
+>>    - may **not** credit oneself as the artist and/or alter the artwork in anyway including: tracing, and removing the signature with intent to obscure credibility.
+>>    - may crop and/or resize the commissioned piece to fit one's preferences without omitting the above terms.
+>>    - is aware that they are purchasing digital good(s) and will not misuse the chargeback fee via PayPal.
+>>    - is aware that I will **not** tolerate the misuse of the chargeback fee via PayPal and legal actions may follow for fraudulent intent and/or mischief.
 >
 >
 >As the artist, I will never, under any circumstances, claim your original character(s) and/or properties as my own. I will always give proper disclaimers for such. However, I have a right to:
 >
->>    display and/or remove any commission(s) from my own galleries. 
->>    issue a refund and/or cancel a commission request due to either inadequate or lack of communication and/or inappropriate behavior
->>    report the commissioner for any fraudulent intent and/or mischief via PayPal and/or any used platform if any issues should arise.
+>>    - display and/or remove any commission(s) from my own galleries. 
+>>    - issue a refund and/or cancel a commission request due to either inadequate or lack of communication and/or inappropriate behavior
+>>    - report the commissioner for any fraudulent intent and/or mischief via PayPal and/or any used platform if any issues should arise.
 
 
 
