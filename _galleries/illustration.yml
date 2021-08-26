@@ -14,7 +14,7 @@ arts:
   artist: ""
   description: ""
   
-  - image: "images/illustration/Guide.jpg"
+- image: "images/illustration/Guide.jpg"
   order: "3"
   title: "Guide"
   artist: ""
