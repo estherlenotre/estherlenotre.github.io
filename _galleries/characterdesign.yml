@@ -3,7 +3,7 @@ name: "characterdesign"
 arts:
 
 # Column 1
-- image: "images/galleries/illustration/qipao.jpg"
+- image: "images/galleries/characterdesign/qipao.jpg"
   order: "1"
   title: "Qipao"
   description: 
