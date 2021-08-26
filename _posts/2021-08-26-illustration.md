@@ -9,7 +9,7 @@ thumbnail: images/posts/illu.png
 
 ---
 **Base price : 180$**
-  *Fully rendered piece including background and a (or multiple) character(s).*
+  *Fully rendered piece including background and character(s).*
 
 
 #### How to order
