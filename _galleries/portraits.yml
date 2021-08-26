@@ -3,41 +3,41 @@ name: "portraits"
 arts:
 
 # Column 1
-- image: "images/galleries/illustration/Ydrill.jpg"
+- image: "images/galleries/portraits/Ydrill.jpg"
   order: "1"
   title: "Ydrill"
   description: 
   
-- image: "images/galleries/illustration/self portrait.jpg"
+- image: "images/galleries/portraits/self portrait.jpg"
   order: "2"
   title: "Self portrait"
   description: 
   
-  - image: "images/galleries/illustration/Artemis.jpg"
+  - image: "images/galleries/portraits/Artemis.jpg"
   order: "3"
   title: "Artemis"
   description: 
   
   
 # Column 2
-- image: "images/galleries/illustration/Ayra.jpg"
+- image: "images/galleries/portraits/Ayra.jpg"
   order: "4"
   title: "Ayra"
   description: 
   
-- image: "images/galleries/illustration/Tiefling.jpg"
+- image: "images/galleries/portraits/Tiefling.jpg"
   order: "5"
   title: "Tiefling"
   description: 
   
-- image: "images/galleries/illustration/Elf.jpg"
+- image: "images/galleries/portraits/Elf.jpg"
   order: "6"
   title: "Elf"
   description: 
   
   
 # Column 3
-- image: "images/galleries/illustration/Sybil.jpg"
+- image: "images/galleries/portraits/Sybil.jpg"
   order: "7"
   title: "Sybil"
   description: 
