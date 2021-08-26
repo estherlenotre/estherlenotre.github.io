@@ -5,47 +5,47 @@ arts:
 - image: "images/portraits/Ydrill.jpg"
   order: "1"
   title: "Ydrill"
-  artist: ""
-  description: ""
+  artist:
+  description:
   
 - image: "images/portraits/self-portrait.jpg"
   order: "2"
   title: "Self portrait"
-  artist: ""
-  description: ""
+  artist:
+  description:
   
 - image: "images/portraits/Artemis.jpg"
   order: "3"
   title: "Artemis"
-  artist: ""
-  description: ""
+  artist:
+  description:
   
   
 # Column 2
 - image: "images/portraits/Ayra.jpg"
   order: "4"
   title: "Ayra"
-  artist: ""
-  description: ""
+  artist:
+  description:
   
 - image: "images/portraits/Tiefling.jpg"
   order: "5"
   title: "Tiefling"
-  artist: ""
-  description: ""
+  artist:
+  description:
   
 - image: "images/portraits/Elf.jpg"
   order: "6"
   title: "Elf"
-  artist: ""
-  description: ""
+  artist:
+  description:
   
   
 # Column 3
 - image: "images/portraits/Sybil.jpg"
   order: "7"
   title: "Sybil"
-  artist: ""
-  description: ""
+  artist:
+  description:
 ---
 
