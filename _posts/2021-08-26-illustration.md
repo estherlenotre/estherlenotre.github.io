@@ -9,7 +9,9 @@ thumbnail: images/illustration/Guide.jpg
 
 ---
 **Base price : 180$**
+
 *Fully rendered piece including background and a (or multiple) character(s).*
+
 How to order and agreement below.
 
 
