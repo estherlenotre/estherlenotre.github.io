@@ -11,7 +11,7 @@ thumbnail: images/posts/illu.png
 **Base price : 180$**  -  *Fully rendered piece including background and character(s).*
 
 
-#### How to order
+## How to order
 
 Use the contact form and include the following :
 
@@ -30,7 +30,7 @@ Use the contact form and include the following :
 
 
 
-#### Agreement
+## Agreement
 
 
 *By sending the payment, you are agreeing to the following terms:*
