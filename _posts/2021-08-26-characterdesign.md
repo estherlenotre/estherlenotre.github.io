@@ -5,7 +5,7 @@ title: "Character design"
 keywords: Character, Design, Commission, Prices
 description: Commission prices for character designs
 
-thumbnail: images/posts/port.png
+thumbnail: images/posts/chara.png
 
 ---
 **Base price : 100$**
