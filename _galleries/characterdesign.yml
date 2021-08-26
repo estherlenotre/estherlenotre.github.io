@@ -7,11 +7,11 @@ arts:
   order: "1"
   title: "Qipao"
   artist: ""
-  description: 
+  description: ""
   
 - image: "images/galleries/characterdesign/Freja.jpg"
   order: "2
   title: "Freja"
   artist: ""
-  description: 
+  description: ""
 ---
