@@ -5,38 +5,38 @@ arts:
 - image: "images/illustration/Drowning.jpg"
   order: "1"
   title: "Drowning"
-  artist: ""
-  description: ""
+  artist:
+  description:
   
 - image: "images/illustration/balcony.jpg"
   order: "2"
   title: "Balcony"
-  artist: ""
-  description: ""
+  artist:
+  description:
   
 - image: "images/illustration/Guide.jpg"
   order: "3"
   title: "Guide"
-  artist: ""
-  description: ""
-  
+  artist:
+  description:
+ 
   
 # Column 2
 - image: "images/illustration/Succubus.jpg"
   order: "4"
   title: "Succubus"
-  artist: ""
-  description: ""
+  artist:
+  description:
   
 - image: "images/illustration/unwanted-protection.jpg"
   order: "5"
   title: "Unwanted protection"
-  artist: ""
-  description: ""
+  artist:
+  description:
   
 - image: "images/illustration/dance.jpg"
   order: "6"
   title: "Dance"
-  artist: ""
-  description: ""
+  artist:
+  description:
 ---
