@@ -2,19 +2,19 @@
 name: "illustration"
 arts:
 # Column 1
-- image: "images/galleries/illustration/Drowning.jpg"
+- image: "images/illustration/Drowning.jpg"
   order: "1"
   title: "Drowning"
   artist: ""
   description: ""
   
-- image: "images/galleries/illustration/balcony.jpg"
+- image: "images/illustration/balcony.jpg"
   order: "2"
   title: "Balcony"
   artist: ""
   description: ""
   
-  - image: "images/galleries/illustration/Guide.jpg"
+  - image: "images/illustration/Guide.jpg"
   order: "3"
   title: "Guide"
   artist: ""
@@ -22,19 +22,19 @@ arts:
   
   
 # Column 2
-- image: "images/galleries/illustration/Succubus.jpg"
+- image: "images/illustration/Succubus.jpg"
   order: "4"
   title: "Succubus"
   artist: ""
   description: ""
   
-- image: "images/galleries/illustration/unwanted-protection.jpg"
+- image: "images/illustration/unwanted-protection.jpg"
   order: "5"
   title: "Unwanted protection"
   artist: ""
   description: ""
   
-- image: "images/galleries/illustration/dance.jpg"
+- image: "images/illustration/dance.jpg"
   order: "6"
   title: "Dance"
   artist: ""
