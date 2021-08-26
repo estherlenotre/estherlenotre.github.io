@@ -1,7 +1,6 @@
 ---
 name: "illustration"
 arts:
-
 # Column 1
 - image: "images/galleries/illustration/Drowning.jpg"
   order: "1"
@@ -29,7 +28,7 @@ arts:
   artist: ""
   description: ""
   
-- image: "images/galleries/illustration/unwanted protection.jpg"
+- image: "images/galleries/illustration/unwanted-protection.jpg"
   order: "5"
   title: "Unwanted protection"
   artist: ""
@@ -40,4 +39,4 @@ arts:
   title: "Dance"
   artist: ""
   description: ""
-
+---
