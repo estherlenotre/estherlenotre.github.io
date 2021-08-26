@@ -11,6 +11,7 @@ thumbnail: images/portraits/Ydrill.jpg
 **Base price : 80$**
 How to order and agreement below.
 
+
 #### How to order
 
 Use the contact form and include the following :
@@ -29,7 +30,9 @@ Use the contact form and include the following :
 - Each piece should take something like 1 or 2 weeks (depending on the complexity of the piece and type of commission)
 
 
+
 #### Agreement
+
 
 *By sending the payment, you are agreeing to the following terms:*
 
